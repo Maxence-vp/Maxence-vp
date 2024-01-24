@@ -3,7 +3,27 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Maxence Ver Poorten</h1>
-<h3 align="center">A passionate developper Web & Web mobile (JR)</h3>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Maxence-vp/count.svg?"  />
+</div>
+
+<br clear="both">
+
+<details/>
+<summary align="center">CLICK FOR MORE INFO !</summary>
+
+###
+
+<br clear="both">
+
+<h3 align="center">🤝🏻 Connect with Me</h3>
+
+###
+
+
 
 - 📫 How to reach me **maxence.verpoorten@gmail.com**
 
