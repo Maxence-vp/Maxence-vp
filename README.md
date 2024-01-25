@@ -57,21 +57,23 @@
 <h3>💻Terminal</h3>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
-
 <div align="center"><img src="https://31.media.tumblr.com/11ba7df56075ffa8f27649ed437fc2d1/tumblr_mt10t8YbwE1svfmkro1_500.gif" align="center" width="100px"/></div>
-<h2 align="center">STATS</h2>
+<br>
 
 <div align="center">
 <a href="https://github.com/Maxence-vp">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxence-vp&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maxence-vp&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxence-vp&theme=2077" height="180em" />
-
+</a>
+  
 <details>
 <summary>More stats</summary>
 
+<a href="https://github.com/Maxence-vp">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maxence-vp&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maxence-vp&theme=2077" height="180em" />
+</a>
 
 </details>
 
