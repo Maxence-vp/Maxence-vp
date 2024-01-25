@@ -31,4 +31,10 @@
 ###
 
 <h2 align="left"><img src="https://www.clipartmax.com/png/full/299-2990812_pikachu-gif-pictures-images-photos-pixel-pikachu.png" width="50px" />&nbsp; &nbsp; Tech Stack :</h2>
+<h3> 🖍️Design </h3>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<h3>⚡Database</h3>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
