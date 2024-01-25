@@ -62,15 +62,24 @@
 <h2 align="center">STATS</h2>
 
 <div align="center">
-<a  href="https://github.com/Maxence-vp">
-<img src="https://raw.githubusercontent.com/Maxence-vp/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/Maxence-vp/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/Maxence-vp/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-</a>
+<a href="https://github.com/Maxence-vp">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxence-vp&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maxence-vp&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxence-vp&theme=2077" height="180em" />
+
+<details>
+<summary>More stats</summary>
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maxence-vp&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maxence-vp&theme=2077" height="180em" />
+
+</details>
+
 </div>
+<br>
 
 
-<h2 align="center">My code cycle 😂</h2>
+<h2 align="center">My process while coding 😂</h2>
 <br>
 <div align="center">
 <img src="https://eternia.fr/public/media//jaune/pikachu/mood_13.gif" width="10%" alt="Broken system!"/>
