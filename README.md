@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maxence Ver Poorten ! <img src="https://i.pinimg.com/originals/bb/52/20/bb5220dccb70fed4d9bd101efad8476d.gif" width="50px"></h1>
+<h1 align="center">Hi, I'm Maxence VER POORTEN ! <img src="https://i.pinimg.com/originals/bb/52/20/bb5220dccb70fed4d9bd101efad8476d.gif" width="50px"></h1>
 
 <p align="center">
 <img src="https://github.com/Maxence-vp/Maxence-vp/assets/120386971/524171a7-9e7d-47ab-acef-ba17ed7370c8">
